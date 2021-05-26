@@ -53,7 +53,7 @@ var highScores = function() {
     highScoreContainer.appendChild(title);
 
     //displays high scores
-        // displays player scores
+    // displays player scores
     var initals = localStorage.getItem("initals");
     var score = localStorage.getItem("score");
     var leaderboardScore = document.createElement("p");
