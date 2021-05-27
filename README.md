@@ -1,6 +1,6 @@
 # Java-quiz
 
-Test your javascript knowledge with this timed quiz! 5 questions overall with 75 seconds on the clock. Rememember, each wrong answer will deduct 10 seconds from the clock.
+Test your javascript knowledge with this timed quiz! 5 questions overall with 75 seconds on the clock. Remember, each wrong answer will deduct 10 seconds from the clock.
 
 Good luck!
 
