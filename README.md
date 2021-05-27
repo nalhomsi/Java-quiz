@@ -11,8 +11,6 @@ Repository can be found at: https://github.com/nalhomsi/Java-quiz
 
 Published page can be found at: https://nalhomsi.github.io/Java-quiz/
 
-Development prcoess:
+Challenges overcome: Learning to write code and commands within the js file rather than the html file.
 
-Challenges overcome:
-
-Potential future additions:
+Potential future additions: Additional questions and further rounds. Interactive rounds with other players.
